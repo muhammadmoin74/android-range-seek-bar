@@ -60,9 +60,9 @@ import java.math.BigDecimal;
  */
 public class RangeSeekBar<T extends Number> extends ImageView {
     /**
-     * Default color of a {@link RangeSeekBar}, #FF33B5E5. This is also known as "Ice Cream Sandwich" blue.
+     * Default color of a {@link RangeSeekBar}, #FF90EE90. This color is green.
      */
-    public static final int ACTIVE_COLOR = Color.argb(0xFF, 0x33, 0xB5, 0xE5);
+    public static final int ACTIVE_COLOR = Color.argb(0xFF, 0x90, 0xee, 0x90);
     /**
      * An invalid pointer id.
      */
